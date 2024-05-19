@@ -1,0 +1,14 @@
+D:\Docs\progZH2\BeadandoEEO220\bin\Debug\net7.0\BeadandoEEO220.exe
+D:\Docs\progZH2\BeadandoEEO220\bin\Debug\net7.0\BeadandoEEO220.deps.json
+D:\Docs\progZH2\BeadandoEEO220\bin\Debug\net7.0\BeadandoEEO220.runtimeconfig.json
+D:\Docs\progZH2\BeadandoEEO220\bin\Debug\net7.0\BeadandoEEO220.dll
+D:\Docs\progZH2\BeadandoEEO220\bin\Debug\net7.0\BeadandoEEO220.pdb
+D:\Docs\progZH2\BeadandoEEO220\obj\Debug\net7.0\BeadandoEEO220.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\progZH2\BeadandoEEO220\obj\Debug\net7.0\BeadandoEEO220.AssemblyInfoInputs.cache
+D:\Docs\progZH2\BeadandoEEO220\obj\Debug\net7.0\BeadandoEEO220.AssemblyInfo.cs
+D:\Docs\progZH2\BeadandoEEO220\obj\Debug\net7.0\BeadandoEEO220.csproj.CoreCompileInputs.cache
+D:\Docs\progZH2\BeadandoEEO220\obj\Debug\net7.0\BeadandoEEO220.dll
+D:\Docs\progZH2\BeadandoEEO220\obj\Debug\net7.0\refint\BeadandoEEO220.dll
+D:\Docs\progZH2\BeadandoEEO220\obj\Debug\net7.0\BeadandoEEO220.pdb
+D:\Docs\progZH2\BeadandoEEO220\obj\Debug\net7.0\BeadandoEEO220.genruntimeconfig.cache
+D:\Docs\progZH2\BeadandoEEO220\obj\Debug\net7.0\ref\BeadandoEEO220.dll
